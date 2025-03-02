@@ -1,4 +1,4 @@
-# These are the things we are going to do in this test
+# These are the things we are going to do in this Project
 
 1. basic setup of project with every requirement
 2. connecting project to Atlash mongoDb and config of dotenv
